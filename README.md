@@ -1,4 +1,14 @@
-# FinTerm 📈
+```
+                                /$$$$$$  /$$             /$$                                      
+                               /$$__  $$|__/            | $$                                      
+                              | $$  \__/ /$$ /$$$$$$$  /$$$$$$    /$$$$$$   /$$$$$$  /$$$$$$/$$$$ 
+                              | $$$$    | $$| $$__  $$|_  $$_/   /$$__  $$ /$$__  $$| $$_  $$_  $$
+                              | $$_/    | $$| $$  \ $$  | $$    | $$$$$$$$| $$  \__/| $$ \ $$ \ $$
+                              | $$      | $$| $$  | $$  | $$ /$$| $$_____/| $$      | $$ | $$ | $$
+                              | $$      | $$| $$  | $$  |  $$$$/|  $$$$$$$| $$      | $$ | $$ | $$
+                              |__/      |__/|__/  |__/   \___/   \_______/|__/      |__/ |__/ |__/
+```
+
 
 A modern, Professional TUI (Terminal User Interface) for financial market analysis. Built with Python and Textual, FinTerm provides real-time market data, charts, news, and sentiment analysis right in your terminal.
 
@@ -19,6 +29,10 @@ A modern, Professional TUI (Terminal User Interface) for financial market analys
 - **📱 Responsive**: Adapts to terminal window size automatically
 
 ## Screenshots
+<div style="flex-direction: row; justify-content: center; align-items: center; column-gap: 10;">
+   <img width="48%" height="100%" alt="finterm terminal market data version 0.1.0 disclaimer acceptance screen screenshot" src="https://github.com/user-attachments/assets/c75fb9a8-1868-4fc4-b71e-9b357e9b9545" />
+   <img width="48%" height="100%" alt="finterm terminal market data version 0.1.0 screenshot" src="https://github.com/user-attachments/assets/548b17c8-1463-42d2-99be-ad80e2df4679" />
+</div>
 
 ## Quick Start 🚀
 
@@ -249,5 +263,3 @@ This software is for informational purposes only. It is not financial advice and
 ## Star History ⭐
 
 If you find FinTerm useful, please consider giving it a star on GitHub!
-
--->
